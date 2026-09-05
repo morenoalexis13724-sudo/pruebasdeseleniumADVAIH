@@ -39,7 +39,7 @@ public class CA005_RegistroUsuario {
                     )
             );
 
-            correo.sendKeys("usuario_selenium_999999@example.com");
+            correo.sendKeys("usuarum_999999@gmail.com");
 
             // Contraseña
             WebElement password = wait.until(
